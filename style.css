@@ -27,3 +27,13 @@ body {
 .temperature {
     flex-direction: column;
 }
+
+.degrees-section {
+    display: flex;
+    align-items: center;
+}
+
+.degrees-section span {
+    margin: 10px;
+    font-size: 30px;
+}
